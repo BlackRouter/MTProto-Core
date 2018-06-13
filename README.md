@@ -1,1 +1,1 @@
-# MTProto-Core
+# MTProto-Core Machine Certificate Connector
